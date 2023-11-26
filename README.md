@@ -1,1 +1,1 @@
-# Lab2-Obrobka
+# Lab3-Obrobka
